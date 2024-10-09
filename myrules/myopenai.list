@@ -1,0 +1,16 @@
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN,statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN,prodregistryv2.org
+DOMAIN,featureassets.org
+DOMAIN,challenges.cloudflare.com

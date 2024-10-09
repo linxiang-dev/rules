@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "epicgames.com",
+        "klei.com",
+        "kleientertainment.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "104.21.1.0/24",
+        "122.228.22.0/24",
+        "172.67.0.0/16",
+        "8.133.124.0/23"
+      ]
+    }
+  ],
+  "version": 2
+}

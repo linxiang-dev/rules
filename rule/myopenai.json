@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "challenges.cloudflare.com",
+        "featureassets.org",
+        "prodregistryv2.org",
+        "statsigapi.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "browser-intake-datadoghq.com",
+        "chatgpt.com",
+        "featuregates.org",
+        "intercom.io",
+        "intercomcdn.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "openai.com",
+        "sentry.io",
+        "statsig.com",
+        "statsigapi.net",
+        "stripe.com"
+      ]
+    }
+  ],
+  "version": 2
+}
