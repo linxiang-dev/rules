@@ -2,7 +2,6 @@
   "rules": [
     {
       "domain": [
-        "chenhq.ddns.net",
         "oddcc.myqnapcloud.cn"
       ]
     },
@@ -13,11 +12,7 @@
     },
     {
       "domain_suffix": [
-        "cdn.ubi.com",
         "chenhq.ren",
-        "epicgames-download1.akamaized.net",
-        "moyu.im",
-        "pouquiagievu.com",
         "tailscale.com",
         "tailscale.io"
       ]
