@@ -1,6 +1,12 @@
 {
   "rules": [
     {
+      "domain": [
+        "cnlauncher.turtle-wow.org",
+        "launcher.turtle-wow.org"
+      ]
+    },
+    {
       "domain_suffix": [
         "epicgames.com",
         "klei.com",
