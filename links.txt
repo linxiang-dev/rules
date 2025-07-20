@@ -2,8 +2,6 @@ https://raw.githubusercontent.com/DebugNinjaSlayer/rules/refs/heads/main/myrules
 https://raw.githubusercontent.com/DebugNinjaSlayer/rules/refs/heads/main/myrules/game.list
 https://raw.githubusercontent.com/DebugNinjaSlayer/rules/refs/heads/main/myrules/godirect.list
 https://raw.githubusercontent.com/DebugNinjaSlayer/rules/refs/heads/main/myrules/media.list
-https://raw.githubusercontent.com/DebugNinjaSlayer/rules/refs/heads/main/myrules/myopenai.list
-https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OpenAi.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/OpenAI/OpenAI.list
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bing.list
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCNProxyIP.list
