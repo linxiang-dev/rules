@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "oddcc.myqnapcloud.cn"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "tailscale"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "chenhq.ren",
+        "tailscale.com",
+        "tailscale.io"
+      ]
+    }
+  ],
+  "version": 2
+}
