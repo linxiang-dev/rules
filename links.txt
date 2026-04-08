@@ -1,5 +1,6 @@
-https://raw.githubusercontent.com/DebugNinjaSlayer/rules/refs/heads/main/myrules/game.list
-https://raw.githubusercontent.com/DebugNinjaSlayer/rules/refs/heads/main/myrules/godirect.list
+https://raw.githubusercontent.com/linxiang-dev/rules/refs/heads/main/myrules/game.list
+https://raw.githubusercontent.com/linxiang-dev/rules/refs/heads/main/myrules/godirect.list
+https://raw.githubusercontent.com/linxiang-dev/rules/refs/heads/main/myrules/goproxy.list
 https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/refs/heads/main/ConfigFile/Loon/Apple/no-cn-cdn-domain.list
 https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/refs/heads/main/ConfigFile/Loon/Apple/api-domain.list
 https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/refs/heads/main/ConfigFile/Loon/Apple/cdn-domain.list
