@@ -2,7 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "mushroomtrack.com"
+        "mushroomtrack.com",
+        "talordata.com"
       ]
     }
   ],
