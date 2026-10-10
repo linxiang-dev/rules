@@ -1,11 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-        "oddcc.myqnapcloud.cn"
-      ]
-    },
-    {
       "domain_keyword": [
         "tailscale"
       ]
